@@ -27,10 +27,8 @@ CLOSED: [2019-07-27 Sat 04:37]
 * City
 ** [[https://the-binary-tomorrow.tumblr.com/post/173454677836/theartofmany-artist-%E6%89%8B%E6%8C%87%E6%96%AD%E4%BA%86-a-title-hi-chengdu][theartofmany: Artist: 手指断了 a Title: Hi ChengDu ... - Our Sci-Fi Future]]
 
-#+DOWNLOADED: https://66.media.tumblr.com/a1f9e29dd20f96ceae892c251bbcd7ac/tumblr_p7ikadfPzT1uzeyaxo3_1280.jpg @ 2019-07-27 05:23:14
-[[file:City/tumblr_p7ikadfPzT1uzeyaxo3_1280_2019-07-27_05-23-13.jpg]]
-
-
+#+DOWNLOADED: https://66.media.tumblr.com/a1f9e29dd20f96ceae892c251bbcd7ac/tumblr_p7ikadfPzT1uzeyaxo3_1280.jpg @ 2019-07-27 05:25:59
+[[file:City/tumblr_p7ikadfPzT1uzeyaxo3_1280.jpg]]
 * Science Fiction
 ** [[https://www.artstation.com/artwork/NKYRD][ArtStation - xcom , Eddie Del Rio]]
 
