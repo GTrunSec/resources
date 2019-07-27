@@ -2,25 +2,25 @@
 #+AUTHOR: GTrunSec
 #+EMAIL: gtrunsec@hardenedlinux.org
 #+DATE: 27 July 2019
-#+DESCRIPTION:
-#+KEYWORDS:
+#+DESCRIPTION: my wallpaper 
+#+KEYWORDS: wallpaper
 #+LANGUAGE:  en cn
 #+SETUPFILE: ~/org-notes/setup/.local
 #+hugo_publishdate: 
 #+hugo_auto_set_lastmod: t
 #+HUGO_categories: profile 
 #+HUGO_tags: wallpaper personal
-#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   H:2 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
-#+TAGS: Fantasy Illustration mountain Environments
+#+TAGS: Fantasy Illustration mountain Environments city
 * Cyberpunk
 ** [[https://www.artstation.com/artwork/KqZ1y][ArtStation - Cyberpunk Busy Street , Donglu Yu]]
 
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/011/733/734/large/donglu-yu-cyberpunk-demo-lowres.jpg?1531137404 @ 2019-07-27 04:12:46
 [[file:Cyberpunk/donglu-yu-cyberpunk-demo-lowres_2019-07-27_04-12-46.jpeg]]
-** ❤ Love unknow
+** ❤ Love  [[https://www.artstation.com/artwork/Xag90][ArtStation - Barcelona Smoke & Neons: Sant Pau i La Sagrada Familia, Guillem H. Pongiluppi]]
 CLOSED: [2019-07-27 Sat 04:37]
 [[file:Cyberpunk/wallhaven-590770.jpg]]
 * Science Fiction
