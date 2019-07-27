@@ -29,6 +29,11 @@ CLOSED: [2019-07-27 Sat 04:37]
 
 #+DOWNLOADED: https://66.media.tumblr.com/a1f9e29dd20f96ceae892c251bbcd7ac/tumblr_p7ikadfPzT1uzeyaxo3_1280.jpg @ 2019-07-27 05:25:59
 [[file:City/tumblr_p7ikadfPzT1uzeyaxo3_1280.jpg]]
+** [[https://www.artstation.com/artwork/EaaRn][ArtStation - Half-Life - (February work), Wadim Kashin]]
+
+#+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/000/494/460/large/wadim-kashin-halflife1.jpg?1424720087 @ 2019-07-27 08:18:11
+[[file:City/wadim-kashin-halflife1_2019-07-27_08-18-11.jpeg]]
+
 * Science Fiction
 ** [[https://www.artstation.com/artwork/NKYRD][ArtStation - xcom , Eddie Del Rio]]
 
@@ -43,6 +48,14 @@ CLOSED: [2019-07-27 Sat 04:37]
 
 #+DOWNLOADED: https://cdnb.artstation.com/p/assets/images/images/001/200/371/large/guillem-h-pongiluppi-palau-de-la-musica-catalana-barcelona-catalunya-guillemhp.jpg?1442054652 @ 2019-07-27 04:57:33
 [[file:Environments/guillem-h-pongiluppi-palau-de-la-musica-catalana-barcelona-catalunya-guillemhp_2019-07-27_04-57-33.jpeg]]
+** [[https://www.artstation.com/artwork/vwAn3][ArtStation - Environment concepts , Grafit Studio]]
+
+#+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/003/857/544/large/grafit-studio-5.jpg?1478011495 @ 2019-07-27 08:31:07
+[[file:Environments/grafit-studio-5_2019-07-27_08-31-07.jpeg]]
+*** Next
+
+#+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/004/516/332/large/grafit-studio-imgpsh-fullsize-3.jpg?1484238005 @ 2019-07-27 08:33:26
+[[file:Environments/grafit-studio-imgpsh-fullsize-3_2019-07-27_08-33-26.jpeg]]
 
 * Fantasy
 ** [[https://www.artstation.com/artwork/L4n65][ArtStation - The Mountain Kingdom, Max Bedulenko]]  :mountain:Environments:
