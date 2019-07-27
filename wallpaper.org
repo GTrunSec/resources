@@ -5,7 +5,7 @@
 #+DESCRIPTION: my wallpaper 
 #+KEYWORDS: wallpaper
 #+LANGUAGE:  en cn
-#+SETUPFILE: ~/org-notes/setup/.local
+#+SETUPFILE: ~/org-notes/setup/hugo.local
 #+hugo_publishdate: 
 #+hugo_auto_set_lastmod: t
 #+HUGO_categories: profile 
@@ -60,6 +60,16 @@ CLOSED: [2019-07-27 Sat 04:37]
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/003/680/874/large/herman-ng-20161012-style-sheet-final.jpg?1476365418 @ 2019-07-27 13:52:45
 [[file:Environments/herman-ng-20161012-style-sheet-final_2019-07-27_13-52-45.jpeg]]
+** ❤ Love [[https://www.artstation.com/artwork/b6e0n][ArtStation - Destiny 2 Forsaken: Hellrise Canyon, Richard Rude]]
+CLOSED: [2019-07-27 Sat 16:32]
+
+#+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/013/094/802/large/richard-rude-richardrude-d2f-hellrisecanyon-002.jpg?1538021578 @ 2019-07-27 16:32:49
+[[file:Environments/richard-rude-richardrude-d2f-hellrisecanyon-002_2019-07-27_16-32-49.jpeg]]
+
+* Mountain & spring
+** [[https://www.artstation.com/artwork/985Ga][ArtStation - Torrent of Gelion, Ferdinand Ladera]]
+#+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/001/070/896/large/ferdinand-ladera-torrent-of-gelion-2k.jpg?1439402973 @ 2019-07-27 16:17:26
+[[file:Mountain_&_spring/ferdinand-ladera-torrent-of-gelion-2k_2019-07-27_16-17-26.jpeg]]
 
 * Fantasy
 ** [[https://www.artstation.com/artwork/L4n65][ArtStation - The Mountain Kingdom, Max Bedulenko]]  :mountain:Environments:
@@ -71,3 +81,17 @@ CLOSED: [2019-07-27 Sat 04:37]
 
 #+DOWNLOADED: https://cdnb.artstation.com/p/assets/images/images/018/547/783/large/ned-rogers-forest-forestchoir-concept01-002.jpg?1559781601 @ 2019-07-27 14:07:36
 [[file:Sky_&_sea/ned-rogers-forest-forestchoir-concept01-002_2019-07-27_14-07-36.jpeg]]
+** [[https://www.artstation.com/artwork/yPzZ5][ArtStation - Arrival, James Ross McNab]]
+
+#+DOWNLOADED: https://cdnb.artstation.com/p/assets/images/images/007/265/261/large/james-ross-mcnab-matte-final.jpg?1504883678 @ 2019-07-27 16:31:34
+[[file:Sky_&_sea/james-ross-mcnab-matte-final_2019-07-27_16-31-34.jpeg]]
+
+* Cave & Rock
+** [[https://www.artstation.com/artwork/z30yQ][ArtStation - 24h Speed Environment, Robert Berg]]
+
+#+DOWNLOADED: https://cdnb.artstation.com/p/assets/images/images/009/655/541/large/robert-berg-beauty2.jpg?1520189436 @ 2019-07-27 16:16:10
+[[file:Cave/robert-berg-beauty2_2019-07-27_16-16-10.jpeg]]
+** [[https://www.artstation.com/artwork/bgO2m][ArtStation - Mystical Woods, Ferdinand Ladera]]
+
+#+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/001/070/846/large/ferdinand-ladera-mystical-woods.jpg?1439402074 @ 2019-07-27 16:18:37
+[[file:Cave_&_Rock/ferdinand-ladera-mystical-woods_2019-07-27_16-18-37.jpeg]]
