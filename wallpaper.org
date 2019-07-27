@@ -1,0 +1,41 @@
+#+TITLE: wallpaper
+#+AUTHOR: GTrunSec
+#+EMAIL: gtrunsec@hardenedlinux.org
+#+DATE: 27 July 2019
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE:  en cn
+#+SETUPFILE: ~/org-notes/setup/.local
+#+hugo_publishdate: 
+#+hugo_auto_set_lastmod: t
+#+HUGO_categories: profile 
+#+HUGO_tags: wallpaper personal
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+TAGS: Fantasy Illustration mountain Environments
+* Cyberpunk
+** [[https://www.artstation.com/artwork/KqZ1y][ArtStation - Cyberpunk Busy Street , Donglu Yu]]
+
+
+#+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/011/733/734/large/donglu-yu-cyberpunk-demo-lowres.jpg?1531137404 @ 2019-07-27 04:12:46
+[[file:Cyberpunk/donglu-yu-cyberpunk-demo-lowres_2019-07-27_04-12-46.jpeg]]
+** ❤ Love unknow
+CLOSED: [2019-07-27 Sat 04:37]
+[[file:Cyberpunk/wallhaven-590770.jpg]]
+* Science Fiction
+** [[https://www.artstation.com/artwork/NKYRD][ArtStation - xcom , Eddie Del Rio]]
+
+#+DOWNLOADED: https://cdnb.artstation.com/p/assets/images/images/003/998/505/large/eddie-del-rio-622709-10152191443342178-2030898129-o.jpg?1479313105 @ 2019-07-27 04:21:22
+[[file:Science_Fiction/eddie-del-rio-622709-10152191443342178-2030898129-o_2019-07-27_04-21-22.jpeg]]
+* Environments
+** [[https://www.artstation.com/artwork/xdR3O][ArtStation - Subterra, Wadim Kashin]]
+
+#+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/001/463/980/large/wadim-kashin-exotic1.jpg?1446871380 @ 2019-07-27 04:42:57
+[[file:Environments/wadim-kashin-exotic1_2019-07-27_04-42-57.jpeg]]
+* Fantasy
+** [[https://www.artstation.com/artwork/L4n65][ArtStation - The Mountain Kingdom, Max Bedulenko]]  :mountain:Environments:
+
+#+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/001/265/810/large/max-bedulenko-.jpg?1443926878 @ 2019-07-27 04:48:06
+[[file:Fantasy/max-bedulenko-_2019-07-27_04-48-06.jpeg]]
+
