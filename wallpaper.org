@@ -56,10 +56,18 @@ CLOSED: [2019-07-27 Sat 04:37]
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/004/516/332/large/grafit-studio-imgpsh-fullsize-3.jpg?1484238005 @ 2019-07-27 08:33:26
 [[file:Environments/grafit-studio-imgpsh-fullsize-3_2019-07-27_08-33-26.jpeg]]
+** [[https://www.artstation.com/artwork/0ZrWV][ArtStation - Rift Nightmare Tide environment concept, Herman Ng]]
+
+#+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/003/680/874/large/herman-ng-20161012-style-sheet-final.jpg?1476365418 @ 2019-07-27 13:52:45
+[[file:Environments/herman-ng-20161012-style-sheet-final_2019-07-27_13-52-45.jpeg]]
 
 * Fantasy
 ** [[https://www.artstation.com/artwork/L4n65][ArtStation - The Mountain Kingdom, Max Bedulenko]]  :mountain:Environments:
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/001/265/810/large/max-bedulenko-.jpg?1443926878 @ 2019-07-27 04:48:06
 [[file:Fantasy/max-bedulenko-_2019-07-27_04-48-06.jpeg]]
+* Sky & sea
+** [[https://www.artstation.com/artwork/aRB4kX][ArtStation - More animation environments, Ned Rogers]]
 
+#+DOWNLOADED: https://cdnb.artstation.com/p/assets/images/images/018/547/783/large/ned-rogers-forest-forestchoir-concept01-002.jpg?1559781601 @ 2019-07-27 14:07:36
+[[file:Sky_&_sea/ned-rogers-forest-forestchoir-concept01-002_2019-07-27_14-07-36.jpeg]]
