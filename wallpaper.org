@@ -13,7 +13,7 @@
 #+OPTIONS:   H:2 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
-#+TAGS: Fantasy Illustration mountain Environments city Concept modern
+#+TAGS: Fantasy Illustration mountain Environments city Concept modern living nature
 * Cyberpunk
 ** [[https://www.artstation.com/artwork/KqZ1y][ArtStation - Cyberpunk Busy Street , Donglu Yu]]
 
@@ -65,6 +65,9 @@ CLOSED: [2019-07-27 Sat 16:32]
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/013/094/802/large/richard-rude-richardrude-d2f-hellrisecanyon-002.jpg?1538021578 @ 2019-07-27 16:32:49
 [[file:Environments/richard-rude-richardrude-d2f-hellrisecanyon-002_2019-07-27_16-32-49.jpeg]]
+** [[https://www.artstation.com/fy-yako][ArtStation - Feiyang Wang]]
+** [[https://www.artstation.com/artwork/49Q01][ArtStation - Living Space, Mike Paolilli]] :home:
+** [[https://www.artstation.com/artwork/6gVzO][ArtStation - Uncharted The Lost Legacy : Intro to Western Ghats , Rogelio Olguin]] :nature:
 
 * Mountain & spring
 ** [[https://www.artstation.com/artwork/985Ga][ArtStation - Torrent of Gelion, Ferdinand Ladera]]
