@@ -5,15 +5,40 @@
 #+DESCRIPTION: my wallpaper 
 #+KEYWORDS: wallpaper
 #+LANGUAGE:  en cn
-#+SETUPFILE: ~/org-notes/setup/hugo.local
+#+SETUPFILE: ~/Documents/my-blog/public/theme/org-html-themes/setup/theme-readtheorg.setup
+#+SETUPFILE: ~/Documents/org-notes/setup/hugo.local
 #+hugo_publishdate: 
 #+hugo_auto_set_lastmod: t
 #+HUGO_categories: profile 
 #+HUGO_tags: wallpaper personal
-#+OPTIONS:   H:2 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
-#+TAGS: Fantasy Illustration mountain Environments city Concept modern living nature
+#+TAGS: Fantasy(f) Illustration(i) mountain(m) Environments(e) city(c) Concept(c) modern(M) living(l) nature(n) home(h)
+* 2020
+** Feb 二月
+*** 家，环境，避世，清净，光亮
+其实从这些图中，能给我感觉到作家想要表达的那种感觉。画面里给我感受那种日光照射下，
+它过去时间的一个表达，和展现。青苔，松柏，
+
+- Wed Feb 12 15:55:47 PST 2020
+其实我最开始我是[[https://www.artstation.com/artwork/XBwdvw][ArtStation - CGPB培训班作品展示/ CGPB Mentorship Students
+Showcase, Donglu Yu]] 的链接里看到的作品很喜欢就保存了下来
+**** [[https://www.artstation.com/fy-yako][ArtStation - Feiyang Wang]] :ATTACH:
+:PROPERTIES:
+:ID:       77CB1ED6-2E08-4DD4-BE0A-9D3D02551B7A
+:END:
+
+[[download:120200212_154058feiyang-wang-cats-shelter.jpg]]
+
+**** [[https://www.artstation.com/artwork/49Q01][ArtStation - Living Space, Mike Paolilli]] :living:home:
+
+[[download:120200212_154633mike-paolilli-int-living-space-final.jpg]]
+
+**** [[https://www.artstation.com/artwork/6gVzO][ArtStation - Uncharted The Lost Legacy : Intro to Western Ghats , Rogelio Olguin]] :nature:
+
+[[download:120200212_154741rogelio-olguin-int-h-15.jpg]]
+
 * Cyberpunk
 ** [[https://www.artstation.com/artwork/KqZ1y][ArtStation - Cyberpunk Busy Street , Donglu Yu]]
 
@@ -65,9 +90,6 @@ CLOSED: [2019-07-27 Sat 16:32]
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/013/094/802/large/richard-rude-richardrude-d2f-hellrisecanyon-002.jpg?1538021578 @ 2019-07-27 16:32:49
 [[file:Environments/richard-rude-richardrude-d2f-hellrisecanyon-002_2019-07-27_16-32-49.jpeg]]
-** [[https://www.artstation.com/fy-yako][ArtStation - Feiyang Wang]]
-** [[https://www.artstation.com/artwork/49Q01][ArtStation - Living Space, Mike Paolilli]] :home:
-** [[https://www.artstation.com/artwork/6gVzO][ArtStation - Uncharted The Lost Legacy : Intro to Western Ghats , Rogelio Olguin]] :nature:
 
 * Mountain & spring
 ** [[https://www.artstation.com/artwork/985Ga][ArtStation - Torrent of Gelion, Ferdinand Ladera]]
