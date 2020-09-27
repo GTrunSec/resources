@@ -11,7 +11,7 @@
 #+hugo_auto_set_lastmod: t
 #+HUGO_categories: profile 
 #+HUGO_tags: wallpaper personal
-#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   H:1 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
 #+TAGS: Fantasy(f) Illustration(i) mountain(m) Environments(e) city(c) Concept(c) modern(M) living(l) nature(n) home(h)
