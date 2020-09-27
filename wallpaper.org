@@ -26,97 +26,155 @@
 Showcase, Donglu Yu]] 的链接里看到的作品很喜欢就保存了下来
 **** [[https://www.artstation.com/fy-yako][ArtStation - Feiyang Wang]] :ATTACH:
 :PROPERTIES:
-:ID:       77CB1ED6-2E08-4DD4-BE0A-9D3D02551B7A
+:ID:       9e52b037-c0a3-40ac-a10a-8ee2103864b1
+:END:
+- [[https://www.artstation.com/artwork/KaDVeB][ArtStation - Cats refuge, Feiyang Wang]]
+  + [[attachment:20200926_170934feiyang-wang-cats-shelter.jpg.jpeg]]
+
+
+
+**** [[https://www.artstation.com/artwork/49Q01][ArtStation - Living Space, Mike Paolilli]] :living:home:ATTACH:
+:PROPERTIES:
+:ID:       ff23b42a-8b53-4bc4-bae2-34823573f154
 :END:
 
-[[download:120200212_154058feiyang-wang-cats-shelter.jpg]]
 
-**** [[https://www.artstation.com/artwork/49Q01][ArtStation - Living Space, Mike Paolilli]] :living:home:
+[[attachment:20200926_171057mike-paolilli-int-living-space-final.jpg.jpeg]]
 
-[[download:120200212_154633mike-paolilli-int-living-space-final.jpg]]
 
-**** [[https://www.artstation.com/artwork/6gVzO][ArtStation - Uncharted The Lost Legacy : Intro to Western Ghats , Rogelio Olguin]] :nature:
+**** [[https://www.artstation.com/artwork/6gVzO][ArtStation - Uncharted The Lost Legacy : Intro to Western Ghats , Rogelio Olguin]] :nature:ATTACH:
+:PROPERTIES:
+:ID:       1478c80d-71ae-445b-85fe-0fa02a74bb0d
+:END:
 
-[[download:120200212_154741rogelio-olguin-int-h-15.jpg]]
+[[attachment:20200926_171435rogelio-olguin-int-h-15.jpg.jpeg]]
 
 * Cyberpunk
-** [[https://www.artstation.com/artwork/KqZ1y][ArtStation - Cyberpunk Busy Street , Donglu Yu]]
+** [[https://www.artstation.com/artwork/KqZ1y][ArtStation - Cyberpunk Busy Street , Donglu Yu]] :ATTACH:
+:PROPERTIES:
+:ID:       4377f95b-a0c2-4096-ab59-f08527109524
+:END:
 
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/011/733/734/large/donglu-yu-cyberpunk-demo-lowres.jpg?1531137404 @ 2019-07-27 04:12:46
-[[file:Cyberpunk/donglu-yu-cyberpunk-demo-lowres_2019-07-27_04-12-46.jpeg]]
-** ❤ Love  [[https://www.artstation.com/artwork/Xag90][ArtStation - Barcelona Smoke & Neons: Sant Pau i La Sagrada Familia, Guillem H. Pongiluppi]]
+[[attachment:donglu-yu-cyberpunk-demo-lowres_2019-07-27_04-12-46.jpeg]]
+** ❤ Love  [[https://www.artstation.com/artwork/Xag90][ArtStation - Barcelona Smoke & Neons: Sant Pau i La Sagrada Familia, Guillem H. Pongiluppi]] :ATTACH:
 CLOSED: [2019-07-27 Sat 04:37]
-[[file:Cyberpunk/wallhaven-590770.jpg]]
+:PROPERTIES:
+:ID:       2cfadbdd-d17e-414b-8014-3970c54b89a9
+:END:
+[[attachment:wallhaven-590770.jpg]]
 ** [[https://www.artstation.com/artwork/Z5gJ5N][ArtStation - Cyberpunk Alley Environment, James Atkinson]]    :city:modern:
 * City
-** [[https://the-binary-tomorrow.tumblr.com/post/173454677836/theartofmany-artist-%E6%89%8B%E6%8C%87%E6%96%AD%E4%BA%86-a-title-hi-chengdu][theartofmany: Artist: 手指断了 a Title: Hi ChengDu ... - Our Sci-Fi Future]]
+** [[https://the-binary-tomorrow.tumblr.com/post/173454677836/theartofmany-artist-%E6%89%8B%E6%8C%87%E6%96%AD%E4%BA%86-a-title-hi-chengdu][theartofmany: Artist: 手指断了 a Title: Hi ChengDu ... - Our Sci-Fi Future]] :ATTACH:
+:PROPERTIES:
+:ID:       1303f0d8-1ed0-48dc-a27b-04f6c1de086b
+:END:
 
 #+DOWNLOADED: https://66.media.tumblr.com/a1f9e29dd20f96ceae892c251bbcd7ac/tumblr_p7ikadfPzT1uzeyaxo3_1280.jpg @ 2019-07-27 05:25:59
-[[file:City/tumblr_p7ikadfPzT1uzeyaxo3_1280.jpg]]
-** [[https://www.artstation.com/artwork/EaaRn][ArtStation - Half-Life - (February work), Wadim Kashin]]
+[[attachment:tumblr_p7ikadfPzT1uzeyaxo3_1280.jpg]]
+** [[https://www.artstation.com/artwork/EaaRn][ArtStation - Half-Life - (February work), Wadim Kashin]] :ATTACH:
+:PROPERTIES:
+:ID:       ea4a8cbb-f230-49ca-97f5-bcc9e65dc485
+:END:
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/000/494/460/large/wadim-kashin-halflife1.jpg?1424720087 @ 2019-07-27 08:18:11
-[[file:City/wadim-kashin-halflife1_2019-07-27_08-18-11.jpeg]]
+[[attachment:wadim-kashin-halflife1_2019-07-27_08-18-11.jpeg]]
 
 * Science Fiction
-** [[https://www.artstation.com/artwork/NKYRD][ArtStation - xcom , Eddie Del Rio]]
+** [[https://www.artstation.com/artwork/NKYRD][ArtStation - xcom , Eddie Del Rio]] :ATTACH:
+:PROPERTIES:
+:ID:       046d8397-51e7-4cd8-b21b-2909a0ada976
+:END:
 
 #+DOWNLOADED: https://cdnb.artstation.com/p/assets/images/images/003/998/505/large/eddie-del-rio-622709-10152191443342178-2030898129-o.jpg?1479313105 @ 2019-07-27 04:21:22
-[[file:Science_Fiction/eddie-del-rio-622709-10152191443342178-2030898129-o_2019-07-27_04-21-22.jpeg]]
+[[attachment:eddie-del-rio-622709-10152191443342178-2030898129-o_2019-07-27_04-21-22.jpeg]]
 * Environments
-** [[https://www.artstation.com/artwork/xdR3O][ArtStation - Subterra, Wadim Kashin]]
+** [[https://www.artstation.com/artwork/xdR3O][ArtStation - Subterra, Wadim Kashin]] :ATTACH:
+:PROPERTIES:
+:ID:       6ed261a7-2765-4b14-9d9b-32bd28571799
+:END:
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/001/463/980/large/wadim-kashin-exotic1.jpg?1446871380 @ 2019-07-27 04:42:57
-[[file:Environments/wadim-kashin-exotic1_2019-07-27_04-42-57.jpeg]]
-** [[https://www.artstation.com/artwork/3ENAg][ArtStation - Barcelona Aftermath: El Palau de la Música, Guillem H. Pongiluppi]] :Concept:
+[[attachment:wadim-kashin-exotic1_2019-07-27_04-42-57.jpeg]]
+** [[https://www.artstation.com/artwork/3ENAg][ArtStation - Barcelona Aftermath: El Palau de la Música, Guillem H. Pongiluppi]] :Concept:ATTACH:
+:PROPERTIES:
+:ID:       0df5cb5d-08df-430d-bfcb-6914a15abfed
+:END:
 
 #+DOWNLOADED: https://cdnb.artstation.com/p/assets/images/images/001/200/371/large/guillem-h-pongiluppi-palau-de-la-musica-catalana-barcelona-catalunya-guillemhp.jpg?1442054652 @ 2019-07-27 04:57:33
-[[file:Environments/guillem-h-pongiluppi-palau-de-la-musica-catalana-barcelona-catalunya-guillemhp_2019-07-27_04-57-33.jpeg]]
-** [[https://www.artstation.com/artwork/vwAn3][ArtStation - Environment concepts , Grafit Studio]]
+[[attachment:guillem-h-pongiluppi-palau-de-la-musica-catalana-barcelona-catalunya-guillemhp_2019-07-27_04-57-33.jpeg]]
+** [[https://www.artstation.com/artwork/vwAn3][ArtStation - Environment concepts , Grafit Studio]] :ATTACH:
+:PROPERTIES:
+:ID:       132975b6-d781-4491-90e8-dca19c17b321
+:END:
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/003/857/544/large/grafit-studio-5.jpg?1478011495 @ 2019-07-27 08:31:07
-[[file:Environments/grafit-studio-5_2019-07-27_08-31-07.jpeg]]
+[[attachment:grafit-studio-5_2019-07-27_08-31-07.jpeg]]
 *** Next
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/004/516/332/large/grafit-studio-imgpsh-fullsize-3.jpg?1484238005 @ 2019-07-27 08:33:26
 [[file:Environments/grafit-studio-imgpsh-fullsize-3_2019-07-27_08-33-26.jpeg]]
-** [[https://www.artstation.com/artwork/0ZrWV][ArtStation - Rift Nightmare Tide environment concept, Herman Ng]]
+** [[https://www.artstation.com/artwork/0ZrWV][ArtStation - Rift Nightmare Tide environment concept, Herman Ng]] :ATTACH:
+:PROPERTIES:
+:ID:       46b72c9c-ed4a-4ffc-9c55-a1e285e67484
+:END:
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/003/680/874/large/herman-ng-20161012-style-sheet-final.jpg?1476365418 @ 2019-07-27 13:52:45
-[[file:Environments/herman-ng-20161012-style-sheet-final_2019-07-27_13-52-45.jpeg]]
-** ❤ Love [[https://www.artstation.com/artwork/b6e0n][ArtStation - Destiny 2 Forsaken: Hellrise Canyon, Richard Rude]]
+[[attachment:herman-ng-20161012-style-sheet-final_2019-07-27_13-52-45.jpeg]]
+** ❤ Love [[https://www.artstation.com/artwork/b6e0n][ArtStation - Destiny 2 Forsaken: Hellrise Canyon, Richard Rude]] :ATTACH:
 CLOSED: [2019-07-27 Sat 16:32]
+:PROPERTIES:
+:ID:       12004cda-72c7-4199-898a-e1c05e389f36
+:END:
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/013/094/802/large/richard-rude-richardrude-d2f-hellrisecanyon-002.jpg?1538021578 @ 2019-07-27 16:32:49
-[[file:Environments/richard-rude-richardrude-d2f-hellrisecanyon-002_2019-07-27_16-32-49.jpeg]]
+[[attachment:richard-rude-richardrude-d2f-hellrisecanyon-002_2019-07-27_16-32-49.jpeg]]
 
 * Mountain & spring
-** [[https://www.artstation.com/artwork/985Ga][ArtStation - Torrent of Gelion, Ferdinand Ladera]]
+** [[https://www.artstation.com/artwork/985Ga][ArtStation - Torrent of Gelion, Ferdinand Ladera]] :ATTACH:
+:PROPERTIES:
+:ID:       908bd9d2-d180-427a-a101-d68588b310a4
+:END:
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/001/070/896/large/ferdinand-ladera-torrent-of-gelion-2k.jpg?1439402973 @ 2019-07-27 16:17:26
-[[file:Mountain_&_spring/ferdinand-ladera-torrent-of-gelion-2k_2019-07-27_16-17-26.jpeg]]
+[[attachment:ferdinand-ladera-torrent-of-gelion-2k_2019-07-27_16-17-26.jpeg]]
 
 * Fantasy
-** [[https://www.artstation.com/artwork/L4n65][ArtStation - The Mountain Kingdom, Max Bedulenko]]  :mountain:Environments:
+** [[https://www.artstation.com/artwork/L4n65][ArtStation - The Mountain Kingdom, Max Bedulenko]] :mountain:Environments:ATTACH:
+:PROPERTIES:
+:ID:       f654c3b9-c22e-49c8-bc1c-79aeb2dc04db
+:END:
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/001/265/810/large/max-bedulenko-.jpg?1443926878 @ 2019-07-27 04:48:06
-[[file:Fantasy/max-bedulenko-_2019-07-27_04-48-06.jpeg]]
+[[attachment:max-bedulenko-_2019-07-27_04-48-06.jpeg]]
 * Sky & sea
-** [[https://www.artstation.com/artwork/aRB4kX][ArtStation - More animation environments, Ned Rogers]]
+** [[https://www.artstation.com/artwork/aRB4kX][ArtStation - More animation environments, Ned Rogers]] :ATTACH:
+:PROPERTIES:
+:ID:       abb03852-d40d-40ae-acf0-a772cded8d97
+:END:
 
 #+DOWNLOADED: https://cdnb.artstation.com/p/assets/images/images/018/547/783/large/ned-rogers-forest-forestchoir-concept01-002.jpg?1559781601 @ 2019-07-27 14:07:36
-[[file:Sky_&_sea/ned-rogers-forest-forestchoir-concept01-002_2019-07-27_14-07-36.jpeg]]
-** [[https://www.artstation.com/artwork/yPzZ5][ArtStation - Arrival, James Ross McNab]]
+[[attachment:ned-rogers-forest-forestchoir-concept01-002_2019-07-27_14-07-36.jpeg]]
+** [[https://www.artstation.com/artwork/yPzZ5][ArtStation - Arrival, James Ross McNab]] :ATTACH:
+:PROPERTIES:
+:ID:       7af39d03-3e47-402a-851f-4612e912c501
+:END:
 
 #+DOWNLOADED: https://cdnb.artstation.com/p/assets/images/images/007/265/261/large/james-ross-mcnab-matte-final.jpg?1504883678 @ 2019-07-27 16:31:34
-[[file:Sky_&_sea/james-ross-mcnab-matte-final_2019-07-27_16-31-34.jpeg]]
+[[attachment:james-ross-mcnab-matte-final_2019-07-27_16-31-34.jpeg]]
 
 * Cave & Rock
-** [[https://www.artstation.com/artwork/z30yQ][ArtStation - 24h Speed Environment, Robert Berg]]
+** [[https://www.artstation.com/artwork/z30yQ][ArtStation - 24h Speed Environment, Robert Berg]] :ATTACH:
+:PROPERTIES:
+:ID:       d4b26468-99c5-4b42-8949-14cf7fb04e43
+:END:
 
 #+DOWNLOADED: https://cdnb.artstation.com/p/assets/images/images/009/655/541/large/robert-berg-beauty2.jpg?1520189436 @ 2019-07-27 16:16:10
-[[file:Cave/robert-berg-beauty2_2019-07-27_16-16-10.jpeg]]
-** [[https://www.artstation.com/artwork/bgO2m][ArtStation - Mystical Woods, Ferdinand Ladera]]
+[[attachment:robert-berg-beauty2_2019-07-27_16-16-10.jpeg]]
+** [[https://www.artstation.com/artwork/bgO2m][ArtStation - Mystical Woods, Ferdinand Ladera]] :ATTACH:
+:PROPERTIES:
+:ID:       58caff13-ba26-4df1-b157-7e9d0117fd3c
+:END:
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/001/070/846/large/ferdinand-ladera-mystical-woods.jpg?1439402074 @ 2019-07-27 16:18:37
-[[file:Cave_&_Rock/ferdinand-ladera-mystical-woods_2019-07-27_16-18-37.jpeg]]
+[[attachment:ferdinand-ladera-mystical-woods_2019-07-27_16-18-37.jpeg]]
