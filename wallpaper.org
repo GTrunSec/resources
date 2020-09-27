@@ -52,18 +52,21 @@ Showcase, Donglu Yu]] 的链接里看到的作品很喜欢就保存了下来
 * Cyberpunk
 ** [[https://www.artstation.com/artwork/KqZ1y][ArtStation - Cyberpunk Busy Street , Donglu Yu]] :ATTACH:
 :PROPERTIES:
-:ID:       4377f95b-a0c2-4096-ab59-f08527109524
+:ID:       f16cf808-6d36-4640-8356-778c4da416d2
 :END:
 
+[[attachment:20200926_173359donglu-yu-cyberpunk-demo-lowres.jpg.jpeg]]
 
-#+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/011/733/734/large/donglu-yu-cyberpunk-demo-lowres.jpg?1531137404 @ 2019-07-27 04:12:46
-[[attachment:donglu-yu-cyberpunk-demo-lowres_2019-07-27_04-12-46.jpeg]]
 ** ❤ Love  [[https://www.artstation.com/artwork/Xag90][ArtStation - Barcelona Smoke & Neons: Sant Pau i La Sagrada Familia, Guillem H. Pongiluppi]] :ATTACH:
-CLOSED: [2019-07-27 Sat 04:37]
 :PROPERTIES:
-:ID:       2cfadbdd-d17e-414b-8014-3970c54b89a9
+:ID:       53a30b83-7100-4366-b338-35eafe4c41db
 :END:
-[[attachment:wallhaven-590770.jpg]]
+
+
+
+[[attachment:20200926_173420guillem-h-pongiluppi-guillemhp-barcelona-future-3.jpg.jpeg]]
+
+
 ** [[https://www.artstation.com/artwork/Z5gJ5N][ArtStation - Cyberpunk Alley Environment, James Atkinson]]    :city:modern:
 * City
 ** [[https://the-binary-tomorrow.tumblr.com/post/173454677836/theartofmany-artist-%E6%89%8B%E6%8C%87%E6%96%AD%E4%BA%86-a-title-hi-chengdu][theartofmany: Artist: 手指断了 a Title: Hi ChengDu ... - Our Sci-Fi Future]] :ATTACH:
