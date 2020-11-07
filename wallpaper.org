@@ -114,10 +114,11 @@ Showcase, Donglu Yu]] 的链接里看到的作品很喜欢就保存了下来
 
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/003/857/544/large/grafit-studio-5.jpg?1478011495 @ 2019-07-27 08:31:07
 [[attachment:grafit-studio-5_2019-07-27_08-31-07.jpeg]]
-*** Next
-
+*** Next :ATTACH:
 #+DOWNLOADED: https://cdna.artstation.com/p/assets/images/images/004/516/332/large/grafit-studio-imgpsh-fullsize-3.jpg?1484238005 @ 2019-07-27 08:33:26
-[[file:Environments/grafit-studio-imgpsh-fullsize-3_2019-07-27_08-33-26.jpeg]]
+
+[[attachment:20201106_203824grafit-studio-imgpsh-fullsize-3.jpg.jpeg]]
+
 ** [[https://www.artstation.com/artwork/0ZrWV][ArtStation - Rift Nightmare Tide environment concept, Herman Ng]] :ATTACH:
 :PROPERTIES:
 :ID:       46b72c9c-ed4a-4ffc-9c55-a1e285e67484
