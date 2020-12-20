@@ -1,21 +1,53 @@
 #+TITLE: wallpaper
 #+AUTHOR: GTrunSec
 #+EMAIL: gtrunsec@hardenedlinux.org
-#+DATE: 27 July 2019
-#+DESCRIPTION: my wallpaper 
-#+KEYWORDS: wallpaper
-#+LANGUAGE:  en cn
+#+DATE: 2019-07-27 Sat
 #+SETUPFILE: ~/Documents/my-blog/public/theme/org-html-themes/setup/theme-readtheorg.setup
-#+SETUPFILE: ~/Documents/org-notes/setup/hugo.local
-#+hugo_publishdate: 
-#+hugo_auto_set_lastmod: t
-#+HUGO_categories: profile 
-#+HUGO_tags: wallpaper personal
+#+SETUPFILE: ./hugo.local
 #+OPTIONS:   H:1 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
-#+SELECT_TAGS: export
-#+EXCLUDE_TAGS: noexport
-#+TAGS: Fantasy(f) Illustration(i) mountain(m) Environments(e) city(c) Concept(c) modern(M) living(l) nature(n) home(h)
+#+TAGS: Fantasy(f) Illustration(i) mountain(m) Environments(e) city(c) Concept(c) modern(M) living(l) nature(n) house(h)
+
+#+TAGS: [ house: bathroom livingroom ]
+#+TAGS: [ Illustration: planet ]
 * 2020
+
+** Sat Dec 19 16:22:50 PST 2020 :ATTACH:
+:PROPERTIES:
+:ID:       00d885ed-3c8e-4c03-b325-52a807f9a3c7
+:END:
+
+*** [[https://www.artstation.com/artwork/JlXwym][ArtStation - Abandoned House, George Turmanidze]] :house:bathroom:ATTACH:
+
+
+[[attachment:20201219_162324george-turmanidze-10.jpg.jpeg]]
+
+
+[[attachment:20201219_162452george-turmanidze-8.jpg.jpeg]]
+
+
+- [[https://www.artstation.com/artwork/k4xzzy][ArtStation - Wooden Bathroom, George Turmanidze]]
+
+
+[[attachment:20201219_170859george-turmanidze-8.jpg.jpeg]]
+
+
+
+[[attachment:20201219_173036george-turmanidze-img-20200427-063133-132.jpg.jpeg]]
+
+*** [[https://www.artstation.com/artwork/A9XbWe][ArtStation - Bathroom Design, Ana Obradovic]] :house:bathroom:ATTACH:
+
+
+[[attachment:20201219_173459ana-obradovic-kupatilo-final2.jpg.jpeg]]
+
+*** [[https://www.artstation.com/artwork/n3y4o][ArtStation - Mind Labyrinth VR Dreams - Scene 1, Andrea Marinelli]] :Illustration:planet:ATTACH:
+
+
+
+[[attachment:20201219_173713andrea-marinelli-liv1-best.jpg.jpeg]]
+
+
+[[attachment:20201219_173725andrea-marinelli-liv1-best2.jpg.jpeg]]
+
 ** Feb 二月
 *** 家，环境，避世，清净，光亮
 其实从这些图中，能给我感觉到作家想要表达的那种感觉。画面里给我感受那种日光照射下，
