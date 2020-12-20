@@ -2,9 +2,9 @@
 #+AUTHOR: GTrunSec
 #+EMAIL: gtrunsec@hardenedlinux.org
 #+DATE: 2019-07-27 Sat
-#+SETUPFILE: ~/Documents/my-blog/public/theme/org-html-themes/setup/theme-readtheorg.setup
+#+SETUPFILE: ./theme-readtheorg.setup
 #+SETUPFILE: ./hugo.local
-#+OPTIONS:   H:1 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   H:2 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
 #+TAGS: Fantasy(f) Illustration(i) mountain(m) Environments(e) city(c) Concept(c) modern(M) living(l) nature(n) house(h)
 
 #+TAGS: [ house: bathroom livingroom ]
