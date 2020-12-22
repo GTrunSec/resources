@@ -5,10 +5,10 @@
 #+SETUPFILE: ./theme-readtheorg.setup
 #+SETUPFILE: ./hugo.local
 #+OPTIONS:   H:2 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
-#+TAGS: Fantasy(f) Illustration(i) mountain(m) Environments(e) city(c) Concept(c) modern(M) living(l) nature(n) house(h)
-
+#+TAGS: Fantasy(f) Illustration(i) mountain(m) Environments(e) city(c) Concept(c) living(l) nature(n) house(h)
 #+TAGS: [ house: bathroom livingroom ]
 #+TAGS: [ Illustration: planet ]
+#+TAGS: [ city: modern ancient dreamLand west east ]
 * 2020
 
 ** Sat Dec 19 16:22:50 PST 2020 :ATTACH:
@@ -35,7 +35,7 @@
 [[attachment:20201219_173036george-turmanidze-img-20200427-063133-132.jpg.jpeg]]
 
 *** [[https://www.artstation.com/artwork/A9XbWe][ArtStation - Bathroom Design, Ana Obradovic]] :house:bathroom:ATTACH:
-
+SCHEDULED: <2020-12-19 Sat>-<2020-12-19 Sat>
 
 [[attachment:20201219_173459ana-obradovic-kupatilo-final2.jpg.jpeg]]
 
@@ -47,6 +47,14 @@
 
 
 [[attachment:20201219_173725andrea-marinelli-liv1-best2.jpg.jpeg]]
+
+*** [[https://www.artstation.com/artwork/ybRDwO][ArtStation - Assassin's Creed Odyssey : Fields of Elysium - Demeter's Dream, Vincent Gros]] :city:ancient:dreamLand:east:ATTACH:
+
+
+[[attachment:20201219_182522vincent-gros-demetersdream005.jpg.jpeg]]
+
+
+[[attachment:20201219_182537vincent-gros-demetersdream007.jpg.jpeg]]
 
 ** Feb 二月
 *** 家，环境，避世，清净，光亮
