@@ -18,10 +18,15 @@
 
 *** [[https://www.artstation.com/artwork/JlXwym][ArtStation - Abandoned House, George Turmanidze]] :house:bathroom:ATTACH:
 
-
+#+NAME:
+#+CAPTION:
+#+ATTR_HTML: :width 400
 [[attachment:20201219_162324george-turmanidze-10.jpg.jpeg]]
 
 
+#+NAME:
+#+CAPTION:
+#+ATTR_HTML: :width 400
 [[attachment:20201219_162452george-turmanidze-8.jpg.jpeg]]
 
 
@@ -55,6 +60,20 @@ SCHEDULED: <2020-12-19 Sat>-<2020-12-19 Sat>
 
 
 [[attachment:20201219_182537vincent-gros-demetersdream007.jpg.jpeg]]
+
+** Tue Feb 16 00:22:31 PST 2021
+
+*** [[https://www.artstation.com/artwork/rRYwmE][ArtStation - Winter Forest Lightning/Design Tests, Andrea Marinelli]] :ATTACH:
+:PROPERTIES:
+:ID:       8f59b01b-0a09-4249-af00-50e283e34c8c
+:END:
+
+#+NAME:
+#+CAPTION:
+#+ATTR_HTML: :width 700
+[[attachment:20210216_002250screenshot.png]]
+
+
 
 ** Feb 二月
 *** 家，环境，避世，清净，光亮
@@ -115,6 +134,9 @@ Showcase, Donglu Yu]] 的链接里看到的作品很喜欢就保存了下来
 :END:
 
 #+DOWNLOADED: https://66.media.tumblr.com/a1f9e29dd20f96ceae892c251bbcd7ac/tumblr_p7ikadfPzT1uzeyaxo3_1280.jpg @ 2019-07-27 05:25:59
+#+NAME:
+#+CAPTION:
+#+ATTR_HTML: :width 400
 [[attachment:tumblr_p7ikadfPzT1uzeyaxo3_1280.jpg]]
 ** [[https://www.artstation.com/artwork/EaaRn][ArtStation - Half-Life - (February work), Wadim Kashin]] :ATTACH:
 :PROPERTIES:
